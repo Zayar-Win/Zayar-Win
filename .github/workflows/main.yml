@@ -40,9 +40,9 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github
-            dist/ocean.gif
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
