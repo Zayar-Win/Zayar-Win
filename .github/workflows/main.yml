@@ -41,7 +41,7 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github
             dist/ocean.gif
 
       # show the status of the build. Makes it easier for debugging (if there's any issues).
