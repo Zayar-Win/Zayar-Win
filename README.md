@@ -48,4 +48,5 @@ A web developer currently working as a Full Stack Developer. I love learning new
 
 <a href="http://www.github.com/Zayar-Win"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayar-Win&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![snake gif]
 (https://github.com/Zayar-Win/Zayar-Win/blob/output/github-contribution-grid-snake.gif)
