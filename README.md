@@ -1,25 +1,23 @@
-Hi 👋 My name is Zayarwin.
-==========================
+# Hi 👋 My name is Zayarwin.
 
-Web Developer
--------------
-A web developer currently working as a Full Stack Developer. I love learning new things and taking on challenges. My passion lies in creating innovative solutions and pushing the boundaries of web development. 
+## Web Developer
 
-💻 As a Full Stack Developer, I enjoy both front-end and back-end development. I work with HTML, CSS, JavaScript, Node.js, React,Vue,Laravle,PHP, to build intuitive user interfaces and robust server-side applications. 
+A web developer currently working as a Full Stack Developer. I love learning new things and taking on challenges. My passion lies in creating innovative solutions and pushing the boundaries of web development.
 
-✨ I'm always exploring new technologies and staying up-to-date with the latest trends. I believe in the power of collaboration and enjoy working with cross-functional teams to create exceptional digital experiences. 
+💻 As a Full Stack Developer, I enjoy both front-end and back-end development. I work with HTML, CSS, JavaScript, Node.js, React,Vue,Laravle,PHP, to build intuitive user interfaces and robust server-side applications.
 
-🌱 Lifelong learning is important to me, and I constantly seek opportunities to expand my skills. You can explore my repositories to see my projects and get a glimpse of my passion for web development. 
+✨ I'm always exploring new technologies and staying up-to-date with the latest trends. I believe in the power of collaboration and enjoy working with cross-functional teams to create exceptional digital experiences.
+
+🌱 Lifelong learning is important to me, and I constantly seek opportunities to expand my skills. You can explore my repositories to see my projects and get a glimpse of my passion for web development.
 
 🌍 If you have any questions, want to collaborate, or just chat about ideas, feel free to reach out. Let's create something amazing together!" Feel free to modify and personalize it further to best represent your profile.
 
-* 🌍  I'm based in Yangon
-* ✉️  You can contact me at [zayarwin7751@gmail.com](mailto:zayarwin7751@gmail.com)
-* 🧠  I'm learning Vue and Laravel by collaborating vue and laravel project.
-* 🤝  I'm open to collaborating on interesting projects.
+- 🌍  I'm based in Yangon
+- ✉️  You can contact me at [zayarwin7751@gmail.com](mailto:zayarwin7751@gmail.com)
+- 🧠  I'm learning Vue and Laravel by collaborating vue and laravel project.
+- 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -38,7 +36,6 @@ A web developer currently working as a Full Stack Developer. I love learning new
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/zayar-win" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/zayarwin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/zayarwin.zayarwin.522" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zayar-Win" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
@@ -51,8 +48,4 @@ A web developer currently working as a Full Stack Developer. I love learning new
 
 <a href="http://www.github.com/Zayar-Win"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zayar-Win&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+(https://github.com/Zayar-Win/Zayar-Win/blob/output/github-contribution-grid-snake.gif)
