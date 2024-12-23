@@ -14,7 +14,7 @@ A web developer currently working as a Full Stack Developer. I love learning new
 
 - 🌍  I'm based in Thailand
 - ✉️  You can contact me at [zayarwin7751@gmail.com](mailto:zayarwin7751@gmail.com)
-- 🧠  I'm learning Vue and Laravel by collaborating vue and laravel project.
+- 🧠  I'm focus on Nextjs and creating various kind of Nextjs Project.
 - 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
