@@ -12,7 +12,7 @@ A web developer currently working as a Full Stack Developer. I love learning new
 
 🌍 If you have any questions, want to collaborate, or just chat about ideas, feel free to reach out. Let's create something amazing together!"
 
-- 🌍  I'm based in Yangon
+- 🌍  I'm based in Thailand
 - ✉️  You can contact me at [zayarwin7751@gmail.com](mailto:zayarwin7751@gmail.com)
 - 🧠  I'm learning Vue and Laravel by collaborating vue and laravel project.
 - 🤝  I'm open to collaborating on interesting projects.
